@@ -21,11 +21,10 @@
 
 ## Point Cloud Sequence Compression
 
-|                  **Pub.**                  |       **Author**        | **Title**                                                    |                          **Links**                           |
-| :----------------------------------------: | :---------------------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-|                ACM MM 2020                 |           SZU           | An Advanced LiDAR Point Cloud Sequence Coding Scheme for Autonomous Driving |   [Paper](https://dl.acm.org/doi/10.1145/3394171.3413537)    |
-|              IEEE ACCESS 2019              |    Nagoya University    | Real-time Streaming Point Cloud Compression for 3D LiDAR Sensor Using U-net |    [Paper](https://ieeexplore.ieee.org/document/8798629)     |
-| IEEE ROBOTICS AND AUTOMATION LETTERS  2020 |           HKU           | A Novel Coding Architecture for LiDAR Point Cloud Sequence   |    [Paper](https://ieeexplore.ieee.org/document/9143432)     |
-|                *arxiv 2020                 | University of Rochester | Real-Time Spatio-Temporal LiDAR Point Cloud Compression      | [Paper](https://arxiv.org/abs/2008.06972)/[Code](https://github.com/horizon-research/Real-Time-Spatio-Temporal-LiDAR-Point-Cloud-Compression) |
-|                                            |                         |                                                              |                                                              |
+|                  **Pub.**                  |    **Author**     | **Title**                                                    |                        **Links**                        |
+| :----------------------------------------: | :---------------: | :----------------------------------------------------------- | :-----------------------------------------------------: |
+|                ACM MM 2020                 |        SZU        | An Advanced LiDAR Point Cloud Sequence Coding Scheme for Autonomous Driving | [Paper](https://dl.acm.org/doi/10.1145/3394171.3413537) |
+|              IEEE ACCESS 2019              | Nagoya University | Real-time Streaming Point Cloud Compression for 3D LiDAR Sensor Using U-net |  [Paper](https://ieeexplore.ieee.org/document/8798629)  |
+| IEEE ROBOTICS AND AUTOMATION LETTERS  2020 |        HKU        | A Novel Coding Architecture for LiDAR Point Cloud Sequence   |  [Paper](https://ieeexplore.ieee.org/document/9143432)  |
+|                                            |                   |                                                              |                                                         |
 
